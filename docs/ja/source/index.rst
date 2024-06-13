@@ -26,15 +26,14 @@ Apollo 1000 Questions
    </a>
    </p>
 
-We know you have a lot of questions about
-`Apollo <https://github.com/ApolloAuto/apollo>`__. Here we have
-summarized 1000 questions about Apollo, we know this is not enough
-and will gradually add answers. Hope it helps you!
+
+`Apollo <https://github.com/ApolloAuto/apollo>`__. について多くの疑問をお持ちであることは承知しています。
+ここでは Apollo に関する 1000 の質問をまとめました。これだけでは十分ではないことは承知しており、
+回答は徐々に追加していきます。お役に立てれば幸いです。
 
 ..
 
-   We are currently improving the Chinese version and will translate it
-   into English later.
+   現在、中国語版を改良しており、後日日本語にも翻訳する予定です。 
 
 .. toctree::
    :numbered:
